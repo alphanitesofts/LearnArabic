@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:level_2_daar.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_daara.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_daari.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_daraza.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_daur.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_dawood_wadood_wurood.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_dawood.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_doori.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_daara_daar_daur.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_daari_doori_daara.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_dawri_dawr_doori.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_dhardhara_dhada_dhara.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_raaroo_roora_raawi.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_rawada_warid_warada.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_waadi_waawi_wardi.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_wadood_warid_widad.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_zada_zara_dara.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_zarada_daraza_zard.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_zurzoor_zarzara_zaara.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_zurzoor_zawi_rawi.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_zurzur_zurzoor_zawr.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_and_s_zuzu_zazi_zaza.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_l_swi_wa_woo.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_raaree.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_raaroo.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_raawi.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_raay.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_radar.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_rara.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_rawada.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_tharthara.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_waadi.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_waawi.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_wadood.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_warada.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_ward_wird_warada.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_ward.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:Level_2_wardi.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_widaad.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_zaada.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_zaara.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_zaawee.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_zarada.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_zard.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_zaza.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_zazee.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_zirr.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_zoozee.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_zurzoor.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:level_2_zuzu.mp3">
+   </FileRef>
+   <FileRef
+      location = "group:LearnArabic.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

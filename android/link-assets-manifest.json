@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Amiri-Bold.ttf",
+      "sha1": "7ef8ec23e521e60b26113f577e4d61bcb7d04bfc"
+    },
+    {
+      "path": "assets/fonts/Amiri-BoldItalic.ttf",
+      "sha1": "bd71db7f9aae09655cb5a30623ffe2a27c3015c6"
+    },
+    {
+      "path": "assets/fonts/Amiri-Italic.ttf",
+      "sha1": "5754ff37c273dadaf4d11a2965ea01055cbcb5e8"
+    },
+    {
+      "path": "assets/fonts/Amiri-Regular.ttf",
+      "sha1": "54761ecc5c999143024e969a8416465f91edc0e3"
+    },
+    {
+      "path": "assets/fonts/Lateef Regular.ttf",
+      "sha1": "f47a3c3a389454c09ee92776ee42a1ff6b8b97da"
+    },
+    {
+      "path": "assets/fonts/NotoNaskhArabic-Bold.ttf",
+      "sha1": "bd7cfd5b42857a7f2296ae9823285df41d2a8d16"
+    },
+    {
+      "path": "assets/fonts/NotoNaskhArabic-Regular.ttf",
+      "sha1": "013bf55510de7fd0881c854d3bbb575e2926aa0b"
+    },
+    {
+      "path": "assets/fonts/NotoNaskhArabicUI-Bold.ttf",
+      "sha1": "c81f4f5d7047fdf117a1747e040bf06c8e4e9c37"
+    },
+    {
+      "path": "assets/fonts/NotoNaskhArabicUI-Regular.ttf",
+      "sha1": "4c5caa056b703810ea74c903a4bf5214c54cb31f"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "43b7d4bbefac5770a275ec5d99de874ddee6214b"
+    },
+    {
+      "path": "assets/fonts/Podkova-Bold.ttf",
+      "sha1": "98a427038d31089e64f5aae2738b4e23dd70b8a7"
+    },
+    {
+      "path": "assets/fonts/Podkova-Regular.ttf",
+      "sha1": "6a8d92b992aec7e1ea0bd3df97c0467c1367dfbb"
+    },
+    {
+      "path": "assets/fonts/Roboto-Bold.ttf",
+      "sha1": "6cbb57ba2355cf442e06899898ff5af55867103e"
+    },
+    {
+      "path": "assets/fonts/Roboto-Light.ttf",
+      "sha1": "191dda7a5142990cd980727d43b27e4802f0b321"
+    },
+    {
+      "path": "assets/fonts/Roboto-Thin.ttf",
+      "sha1": "f71ccd563f95ccc187cf4fe81287445e91f7121b"
+    }
+  ]
+}

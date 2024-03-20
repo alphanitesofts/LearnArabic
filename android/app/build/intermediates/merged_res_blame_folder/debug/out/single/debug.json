@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_l1_listen_sort_daadee_doodee_daadi.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/l1_listen_sort_daadee_doodee_daadi.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_dawood.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_dawood.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_wolkgroen.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_wolkgroen.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_warada.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_warada.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_daadee.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_daadee.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_7_doodaa.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_7_doodaa.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_daari_doori_daara.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_daari_doori_daara.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_letteri.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_letteri.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_zarada_daraza_zard.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_zarada_daraza_zard.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_refresharrow.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_refresharrow.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_daadu.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_daadu.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_tharthara.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_tharthara.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_rara.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_rara.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_lamp_groot.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_lamp_groot.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_dawri_dawr_doori.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_dawri_dawr_doori.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_zurzoor_zarzara_zaara.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_zurzoor_zarzara_zaara.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_zoozee.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_zoozee.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_arabictoren.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_arabictoren.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_raaroo.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_raaroo.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_zaawee.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_zaawee.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_3_dee.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_3_dee.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_doori.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_doori.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_sparrow.jpeg.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_sparrow.jpeg"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_daraza.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_daraza.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_pagenotfound.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_pagenotfound.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_long_vowels.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/long_vowels.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_placeholder.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_placeholder.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_cloud.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_cloud.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_lamproze.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_lamproze.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_ward_wird_warada.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_ward_wird_warada.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_dhardhara_dhada_dhara.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_dhardhara_dhada_dhara.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_rawada.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_rawada.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_4_dau.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_4_dau.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_zurzur_zurzoor_zawr.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_zurzur_zurzoor_zawr.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_6_daadoo.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_6_daadoo.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_kameel.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_kameel.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_raaree.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_raaree.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.learnarabic.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.learnarabic.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_l1_isten_sort_do_dood_doo.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/l1_isten_sort_do_dood_doo.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_wolk_roze.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_wolk_roze.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_lessthansymbol.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_lessthansymbol.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_four.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_four.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_zurzoor_zawi_rawi.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_zurzoor_zawi_rawi.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_zaza.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_zaza.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_zada_zara_dara.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_zada_zara_dara.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_raawi.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_raawi.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_filledstar.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_filledstar.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_zarada.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_zarada.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_raay.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_raay.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_imagelampgrey.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_imagelampgrey.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_backimage1.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_backimage1.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_rawada_warid_warada.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_rawada_warid_warada.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_daur.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_daur.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_ward.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_ward.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_wolkrood.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_wolkrood.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_raaroo_roora_raawi.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_raaroo_roora_raawi.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_daara.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_daara.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_daara_daar_daur.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_daara_daar_daur.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_doodoo.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_doodoo.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_daar.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_daar.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_swi_wa_woo.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_swi_wa_woo.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_waadi.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_waadi.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_zuzu_zazi_zaza.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_zuzu_zazi_zaza.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_zirr.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_zirr.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_dawood_wadood_wurood.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_dawood_wadood_wurood.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_1_doo.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_1_doo.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_daadi.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_daadi.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_exchange.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_exchange.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_speakerfilledaudiotool.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_speakerfilledaudiotool.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_zurzoor.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_zurzoor.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_daari.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_daari.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_tickingsound.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/tickingsound.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_l1_listen_sort_daadaa_doodee_doodoo.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/l1_listen_sort_daadaa_doodee_doodoo.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_zuzu.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_zuzu.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_donkey.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_donkey.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_2_daa.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_2_daa.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_wadood.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_wadood.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_l1_listen_sort_dood_doo_doo_doodee.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/l1_listen_sort_dood_doo_doo_doodee.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_favorite.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_favorite.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_upload.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_upload.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_zaada.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_zaada.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_5_daadaa.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_5_daadaa.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_short_vowels.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/short_vowels.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_zaara.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_zaara.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_burgerbar.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_burgerbar.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_wolk_diap.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_wolk_diap.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_waawi.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_waawi.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_wardi.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_wardi.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_icons_padlock.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_icons_padlock.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_balloon.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_balloon.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_imageback_diap.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_imageback_diap.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_wadood_warid_widad.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_wadood_warid_widad.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_zazee.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_zazee.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_sound.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/sound.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_l_and_s_waadi_waawi_wardi.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_l_and_s_waadi_waawi_wardi.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_doodee.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_doodee.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_wolk.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_wolk.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable-mdpi_src_assets_images_geest_transp.png.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable-mdpi/src_assets_images_geest_transp.png"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_1_daada.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_1_daada.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_widaad.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_widaad.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_zard.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_zard.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_level_2_radar.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/level_2_radar.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/raw_l1_isten_sort_doo_dee_daa.mp3.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/raw/l1_isten_sort_doo_dee_daa.mp3"
+    },
+    {
+        "merged": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-merged_res-37:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/aliahmad/.gradle/daemon/8.0.1/com.learnarabic.app-main-39:/drawable/rn_edit_text_material.xml"
+    }
+]
